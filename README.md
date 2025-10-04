@@ -1,7 +1,5 @@
 # Squishy Reference Sheet
 
-<img src="https://raw.githubusercontent.com/Squishy6094/reference-sheet/refs/heads/main/SquishyRefAnimation_Reveal.gif">
-
 ## Complete Sheets
 
 | | Without Eye | With Eye |
@@ -16,6 +14,5 @@
   - Can switch sides and shape freely, to depict expressions and objects
 
 ## Source Files
-- [Reference Sheet](https://github.com/Squishy6094/reference-sheet/raw/refs/heads/main/SquishyRef.aseprite)
-- [Reference Sheet Reveal Animation](https://github.com/Squishy6094/reference-sheet/raw/refs/heads/main/SquishyRefAnimation.aseprite)
-###### Requires [Aseprite](https://github.com/aseprite/aseprite) v1.13.4+
+- [Reference Sheet](https://github.com/Squishy6094/reference-sheet/blob/main/Squishy6094Ref.aseprite)
+###### Requires Latest [Aseprite](https://github.com/aseprite/aseprite)
